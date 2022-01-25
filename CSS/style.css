@@ -148,11 +148,25 @@ hr{
 .contact-us{
   display: block;
   margin:100px;
+
 }
 .contact-us legend{
   text-align: center;
   font-size: 30px;
   font-weight: 700;
+}
+.contact-us p{
+  margin-left: 10px;
+}
+.contact-us input{
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin: 4px;
+}
+.contact-us .description input{
+  padding: 3em;
 }
 /*footer section*/
 footer{
